@@ -1,0 +1,15 @@
+.perfil{
+    background-color: rgb(42, 72, 99);
+    border: 2px solid greenyellow;
+    width: 250px;
+    margin: 30px auto;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.img{
+    width: 100px;
+    margin: 20px auto;
+    border-radius: 50px;
+}
